@@ -1,0 +1,27 @@
+{
+  "name": "react-native-radio-button",
+  "version": "1.0.0",
+  "description": "Support package for react native developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm i react-native-radio-button"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaudev/react-native-radio-button.git"
+  },
+  "keywords": [
+    "react-native-radio-button",
+    "radio-button",
+    "radio",
+    "react-native",
+    "baochau",
+    "baochau9xx"
+  ],
+  "author": "baochau9xx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaudev/react-native-radio-button/issues"
+  },
+  "homepage": "https://github.com/chaudev/react-native-radio-button#readme"
+}
