@@ -1,0 +1,23 @@
+type RNRadioButtonTextStyle = {
+	backgroundColor?: string;
+	fontSize?: number;
+	color?: string;
+	fontFamily?: string;
+	fontWeight?: string;
+	margin?: number;
+	marginTop?: number;
+	marginBottom?: number;
+	marginLeft?: number;
+	marginRight?: number;
+	marginHorizontal?: number;
+	marginVertical?: number;
+	padding?: number;
+	paddingTop?: number;
+	paddingBottom?: number;
+	paddingLeft?: number;
+	paddingRight?: number;
+	paddingHorizontal?: number;
+	paddingVertical?: number;
+	width?: number;
+	height?: number;
+};
