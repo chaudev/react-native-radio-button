@@ -1,17 +1,17 @@
 {
-  "name": "react-native-radio-button",
+  "name": "react-native-radio-button-next",
   "version": "1.0.0",
   "description": "Support package for react native developers",
-  "main": "index.js",
+  "main": "index.tsx",
   "scripts": {
-    "test": "npm i react-native-radio-button"
+    "test": "npm i react-native-radio-button-next"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chaudev/react-native-radio-button.git"
+    "url": "git+https://github.com/chaudev/react-native-radio-button-next"
   },
   "keywords": [
-    "react-native-radio-button",
+    "react-native-radio-button-next",
     "radio-button",
     "radio",
     "react-native",
@@ -21,7 +21,7 @@
   "author": "baochau9xx",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chaudev/react-native-radio-button/issues"
+    "url": "https://github.com/chaudev/react-native-radio-button-next/issues"
   },
   "homepage": "https://github.com/chaudev/react-native-radio-button#readme"
 }
